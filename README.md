@@ -3,9 +3,3 @@
 ## Tech Stack
 
 **HTML - CSS - Tailwind - Javascript - React - Vite - PostCss - JSX - NPM**
-
-### Directory Structure
-
-```
-
-```
